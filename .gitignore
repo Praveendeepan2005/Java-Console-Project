@@ -1,0 +1,35 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Java module output directories
+out/
+bin/
+build/
+target/
+
+# Ignore libraries (optional; remove if you want to upload JARs)
+lib/
+
+# Ignore IDE-specific files/folders
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OS-specific files
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
